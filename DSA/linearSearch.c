@@ -18,10 +18,6 @@ int main(){
             pos++;
             break;
         }
-        else{
-        	printf("Element not found");
-        	break;
-        }
         
     }
     return 0;
